@@ -1,0 +1,71 @@
+/*
+A custom Bootstrap 3.1 theme from http://bootply.com\
+
+This CSS code should follow the 'bootstrap.css'
+in your HTML file.
+
+license: MIT
+author: bootply.com
+*/
+body{
+  background-image: url("../images/burger.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+h1{
+    font-size: 100px;
+    color: red;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color: green;
+}
+.maincititext{
+    margin-top: 15%;
+    background-color: white;
+    opacity: .50;
+    height: 25%;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+
+#Header {
+  background: rgba(255, 255, 255, 0); 
+  border: 0px;
+}
+
+#HeaderLogo {
+  opacity:0.5;
+}
+
+#BrandDropdown {
+  background: rgba(0, 0, 0, 0); 
+  border: none; 
+  box-shadow: 0 0px 0px rgba(0, 0, 0, 0); 
+  -webkit-box-shadow: 0 0px 0px rgba(0, 0, 0, 0); 
+  position: left;
+}
+
+#DropdownDivider {
+  background-color: rgba(0, 0, 0, 0.3); 
+  margin: 10px 12px;
+}
+
+#SearchBar {
+  background-color: rgba(0,0,0,0.2); 
+  border: none;
+}
+
+#SearchToggle {
+  background-color: rgba(0,0,0,0.2); 
+  border: none;
+}
+
+#SearchLogo {
+  color: white; 
+  opacity: 0.5;
+}
